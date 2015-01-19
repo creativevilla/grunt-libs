@@ -1,0 +1,21 @@
+{
+  "name": "grunt-libs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samrat more",
+  "license": "none",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-less": "^1.0.0",
+    "grunt-contrib-cssmin": "^0.11.0",
+    "grunt-contrib-csslint": "^0.4.0",
+    "grunt-contrib-concat": "^0.5.0"
+  }
+}
